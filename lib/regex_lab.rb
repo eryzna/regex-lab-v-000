@@ -2,7 +2,7 @@ def starts_with_a_vowel?(word)
   if word= /^ w\[aeiou]/
     true
   else
-    false
+    nil
   end
 end
 
